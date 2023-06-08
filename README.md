@@ -31,7 +31,7 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![image](https://github.com/SAKTHISWAR/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/blob/main/badminton%20frame.jpeg)
 ### Output:
 ![image](https://github.com/SAKTHISWAR/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/blob/main/19.png)
 
