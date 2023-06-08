@@ -33,7 +33,7 @@
 ## Input:
 
 ### Output:
-![image](![image](https://github.com/SAKTHISWAR/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119657424/3608d5eb-7e70-44fa-8821-572ccc3cf4c6))
+![image](https://github.com/SAKTHISWAR/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/blob/main/19.png)
 
 ### Name: SAKTHISWAR S
 ### Register Number: 212222230127
